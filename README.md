@@ -9,4 +9,4 @@ Contenido:
 - Constrains  
 - Normalización  
 - RDMS  
-- SQL
+- MySQL Workbench
