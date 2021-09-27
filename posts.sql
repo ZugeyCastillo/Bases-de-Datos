@@ -1,0 +1,1 @@
+SELECT * FROM platzi_blog.posts;
