@@ -8,6 +8,10 @@ Contenido:
 - Tipos de servicios  
 - Constrains  
 - Normalización  
+  - Primer regla  
+  - Segunda regla  
+  - Tercer regla  
+  - Cuarta regla  
 - Relational Database Management System  
   - Structured Query Language  
   - Data Definition Languaje  
