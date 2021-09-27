@@ -8,5 +8,8 @@ Contenido:
 - Tipos de servicios  
 - Constrains  
 - Normalización  
-- RDMS  
+- Relational Database Management System  
+  - Structured Query Language  
+  - Data Definition Languaje  
+  - Data Manipulation Languaje  
 - MySQL Workbench
